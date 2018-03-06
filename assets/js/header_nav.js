@@ -1,0 +1,18 @@
+document.writeln("<!-- Header -->");
+document.writeln("			<header id=\'header\'>");
+document.writeln("				<div class=\'logo\'><a href=\'index.html\'>Blog <span>by KENT PRIME</span></a></div>");
+document.writeln("				<a href=\'#menu\'>Menu</a>");
+document.writeln("			</header>");
+document.writeln("");
+document.writeln("		<!-- Nav -->");
+document.writeln("			<nav id=\'menu\'>");
+document.writeln("				<ul class=\'links\'>");
+document.writeln("					<li><a href=\'index.html\'>Home</a></li>");
+document.writeln("					<li><a href=\'study.html\'>Study</a></li>");
+document.writeln("					<li><a href=\'work.html\'>Work</a></li>");
+document.writeln("					<li><a href=\'elements.html\'>Elements</a></li>");
+document.writeln("					<li><a href=\'life.html\'>Life</a></li>");
+document.writeln("					<li><a href=\'test_page.html\'>测试</a></li>");
+document.writeln("					<li><a href=\'about.html\'>About</a></li>");
+document.writeln("				</ul>");
+document.writeln("			</nav>");
