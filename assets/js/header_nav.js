@@ -11,7 +11,7 @@ document.writeln("					<li><a href=\'..\/\/index.html\'>Home</a></li>");
 document.writeln("					<li><a href=\'..\/\/study.html\'>Study</a></li>");
 document.writeln("					<li><a href=\'..\/\/work.html\'>Work</a></li>");
 document.writeln("					<li><a href=\'..\/\/elements.html\'>Elements</a></li>");
-document.writeln("					<li><a href=\'..\/\/life.html\'>Blog</a></li>");
+document.writeln("					<li><a href=\'..\/\/blog.html\'>Blog</a></li>");
 document.writeln("					<li><a href=\'..\/\/test_page.html\'>Tips & Others</a></li>");
 document.writeln("					<li><a href=\'..\/\/about.html\'>About</a></li>");
 document.writeln("				</ul>");
